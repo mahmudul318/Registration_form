@@ -1,0 +1,32 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-image: url(image/frog.jpg);
+	background-size: cover;
+}
+.amader-form{
+	width: 650px;
+	margin: 100px auto;
+	background: rgba(0, 0, 0, 0.2);
+	padding: 40px 20px;
+}
+.amader-form input{
+	display: block;
+	width: 100%;
+	font-size: 18px;
+	padding: 5px 0;
+	border: 1px solid yellow;
+	background: transparent;
+	color: #fff;
+	
+	
+	
+}
+.amader-form label{
+	color: #fff;
+	cursor: pointer;
+	padding: 5px 0;
+	display: block;
+	font-size: 20px;
+	font-family: tahoma;
+}

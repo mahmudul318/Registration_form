@@ -1,0 +1,70 @@
+body{
+	background-image: url(../image/frog.jpg);
+	background-size: cover;
+}
+.amader-from{
+	width: 800px;
+	padding: 40px 20px;
+	background: rgba(0, 0, 0, .4);
+	background: height;
+	margin: auto;
+	
+}
+.amader-from input{
+	display: block;
+	width: 100%;
+	font-size: 18px;
+	padding: 5px;
+	border: 1px solid yellow;
+	background: transparent;
+	color: #fff;
+	
+	
+}
+.amader-from label{
+	color: #fff;
+	cursor: pointer;
+	padding: 5px 0;
+	display: block;
+	font-size: 20px;
+	font-family: tahoma;
+	
+}
+.amader-from input[type=submit]{
+	width: 200px;
+	margin-top: 10px;
+	cursor: pointer;
+	border-radius: 5px;
+	margin: auto;
+	display: block;
+	margin-top: 10px;
+	
+}
+.amader-from p{
+	color: #fff;
+	font-size: 17px;
+	font-family: tahoma;
+	
+}
+.amader-from p a{
+	color: yellow;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
